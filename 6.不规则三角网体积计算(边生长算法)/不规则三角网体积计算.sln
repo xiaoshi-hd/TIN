@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "不规则三角网体积计算", "不规则三角网体积计算\不规则三角网体积计算.csproj", "{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup\Setup.isproj", "{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{F7411E0F-1894-468F-9DB2-2CCE2E5D6A68}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.Debug|Any CPU.ActiveCfg = DVD-5
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.Debug|Any CPU.Build.0 = DVD-5
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.DVD-5|Any CPU.Build.0 = DVD-5
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.Release|Any CPU.ActiveCfg = SingleImage
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.Release|Any CPU.Build.0 = SingleImage
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{EFD0E4F8-3594-4C11-8C08-993BA7937ADF}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\bin\Release\不规则三角网体积计算.exe.config
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.csproj.ResolveComReference.cache
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\bin\Release\不规则三角网体积计算.exe
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\bin\Release\不规则三角网体积计算.pdb
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.csprojResolveAssemblyReference.cache
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.Form1.resources
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.Properties.Resources.resources
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.csproj.GenerateResource.Cache
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.exe
+C:\Users\xiaoshi\Desktop\完成\不规则三角网体积计算\不规则三角网体积计算\obj\Release\不规则三角网体积计算.pdb
